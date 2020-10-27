@@ -1,0 +1,20 @@
+com/pc/demos/mapstructdemo/MapstructdemoApplication.java
+ com.pc.demos.mapstructdemo.MapstructdemoApplication
+com/pc/demos/mapstructdemo/mapper/ProductMapper.java
+ com.pc.demos.mapstructdemo.mapper.ProductMapper
+com/pc/demos/mapstructdemo/domain/Category.java
+ com.pc.demos.mapstructdemo.domain.Category
+ com.pc.demos.mapstructdemo.domain.Category$CategoryBuilder
+com/pc/demos/mapstructdemo/models/ProductRequest.java
+ com.pc.demos.mapstructdemo.models.ProductRequest
+ com.pc.demos.mapstructdemo.models.ProductRequest$ProductRequestBuilder
+com/pc/demos/mapstructdemo/domain/Product.java
+ com.pc.demos.mapstructdemo.domain.Product
+ com.pc.demos.mapstructdemo.domain.Product$ProductBuilder
+com/pc/demos/mapstructdemo/models/CategoryRequest.java
+ com.pc.demos.mapstructdemo.models.CategoryRequest
+ com.pc.demos.mapstructdemo.models.CategoryRequest$CategoryRequestBuilder
+com/pc/demos/mapstructdemo/service/ProductService.java
+ com.pc.demos.mapstructdemo.service.ProductService
+com/pc/demos/mapstructdemo/resources/ProductResource.java
+ com.pc.demos.mapstructdemo.resources.ProductResource

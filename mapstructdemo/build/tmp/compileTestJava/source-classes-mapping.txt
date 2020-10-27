@@ -1,0 +1,2 @@
+com/pc/demos/mapstructdemo/MapstructdemoApplicationTests.java
+ com.pc.demos.mapstructdemo.MapstructdemoApplicationTests
